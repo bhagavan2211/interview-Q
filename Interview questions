@@ -54,3 +54,26 @@ what is ARM templates ?
 what is the architecture and over view of applicati servers , hosted of applications ?
 what is scope of bussiness ? 
 what is cost assosiated the those applicatins ?
+
+
+--------------------------------------------------------------------------------------------------------------------
+1. what are the  your daily activities ?
+2. how many services you are using aws
+3. what is ebs volume and how to attach the volume
+4. how to check memory in linux
+5. how to build a image and write sample dockerfile
+6. how nginx will work and deploy sample website
+7. how to create rds
+8. what are the parameters in rds and how to copy parameters
+9. which type of jobs you are using in jenkins
+10. what are the difference between diclarative pipeline and scripted pipeline
+11. diference between cloud front and cloud formation
+12. how tomcat will work on application
+13. one container goes down , first thing  what we need to check
+14.what is webhook how to trigger that
+15.what are the plugins you using in jenkins
+
+
+
+
+
